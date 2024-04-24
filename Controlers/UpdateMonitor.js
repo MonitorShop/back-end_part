@@ -1,5 +1,5 @@
-const handleUpdateMonitor = async (req,res) => {
+const UpdateMonitor = async (req,res) => {
 
 }
 
-module.exports = {handleUpdateMonitor}
+module.exports = {UpdateMonitor}

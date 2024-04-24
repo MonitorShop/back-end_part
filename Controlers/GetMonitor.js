@@ -1,5 +1,5 @@
-const handleGetMonitor = async (req,res) => {
+const GetMonitor = async (req,res) => {
 
 }
 
-module.exports = {handleGetMonitor}
+module.exports = {GetMonitor}

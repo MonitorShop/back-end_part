@@ -1,5 +1,5 @@
-const handleDeleteMonitor = async (req,res) => {
+const DeleteMonitor = async (req,res) => {
 
 }
 
-module.exports = {handleDeleteMonitor}
+module.exports = {DeleteMonitor}

@@ -1,5 +1,6 @@
-const handleAddMonitor = async (req,res) => {
-
+const AddMonitor = async (req,res) => {
+    console.log("somenoe")
+    res.send("helloworld")
 }
 
-module.exports = {handleAddMonitor}
+module.exports = {AddMonitor}
